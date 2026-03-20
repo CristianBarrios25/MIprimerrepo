@@ -6,7 +6,7 @@ Antes de empezar, instalar:
 - Node.js (última versión estable) → para el backend.
 - Flutter SDK → para el frontend.
 - Android Studio (solo necesario si se quiere probar la app en un emulador Android).
-👉 Nota: Cada instalación tiene asistentes gráficos, basta con descargar desde la página oficial y dar clic en “Siguiente” hasta terminar.
+  Nota: Cada instalación tiene asistentes gráficos, basta con descargar desde la página oficial y dar clic en “Siguiente” hasta terminar.
 
 
 2. Clonar el repositorio
